@@ -5,7 +5,7 @@ La Applicacion web tenenmos un boton para escrbir un mensaje
     crear un histograma
     mostrar un grafico plotly interactivo
 
-## Tecnologias UTilizadas
+## Tecnologias Utilizadas
 
 - Pandas
 - Python
@@ -16,8 +16,8 @@ La Applicacion web tenenmos un boton para escrbir un mensaje
 - Git
 - Render
 
-## Enlaces Revelantes
+## Enlaces Relevantes
 
-Enlace de la Applicacion
+Enlace de la Applicacion:
 
 https://my-project-1-f247.onrender.com
